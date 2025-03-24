@@ -4,14 +4,14 @@
 
 Welcome to **The Personal AI Company**. We are on a mission to bring **hyper-personalization to everyone**. Our vision is simple yet ambitious: to create a **virtual butler for every individual**, enabling seamless productivity, knowledge management, and personalized assistance.
 
-We are starting with **Amurex**, the world’s first AI **meeting copilot**, ready to simplify your work today and evolve into your **complete executive assistant** tomorrow. This isn’t just about software, it’s about a **revolution in personal productivity** and a vision for a world where AI serves YOU.
+We are starting with **Amurex**, the invisible AI companion that remembers, thinks, and shapes itself around you and your existing tooling. This isn’t just about software, it’s about a **revolution in personal productivity** and a vision for a world where AI serves YOU.
 
 --------------------------
 
 ### The Movement: Taking Back Control
 
 
-For too long, the most advanced consumer tools have been locked behind **proprietary systems**, controlled by a select few. But with the commoditization of AI through **Large Language Models (LLMs)**, the time has come to shift the power back to individuals. This is **our moment** to reshape the future of consumer products — for ourselves and the generations to come.
+For too long, the most advanced consumer tools have been locked behind **proprietary systems**, controlled by a select few. But with the commoditization of AI, the time has come to shift the power back to individuals. This is **our moment** to reshape the future of consumer products — for ourselves and the generations to come.
 
 At **The Personal AI Company (TPAC)**, we’re not just building tools, we’re creating the **layer of personalization over AGI** that will define how humans and AI collaborate. Our journey starts with [**Amurex**](https://github.com/thepersonalaicompany/amurex), the first step in a much larger vision to bring hyper-personalization to every aspect of your digital life.
 
@@ -37,7 +37,7 @@ Amurex will evolve into:
 
 ### The Next Steps
 
-This is **more than a product launch**, it’s a movement to ensure the future of AI belongs to everyone. The commoditization of LLMs allows us to build something **truly personal, truly empowering, and truly open.**
+This is a movement to ensure the future of AI belongs to everyone. The commoditization of AI allows us to build something **truly personal, truly empowering, and truly open.**
 
 We’re not just creating tools. We’re building the foundation of a future where **AI doesn’t just work for you—it works with you,** seamlessly blending into your life and enhancing your potential.
 
